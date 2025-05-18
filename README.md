@@ -1,87 +1,128 @@
+# Career Goals Reflection
 
-# Career Goals Reflection Template
+## 👤 Personal Information
 
-### Introduction to the Template
+- **Name:** Theodore
+- **Date:** 2005-10-27
+- **Current Role/Position:** Student
+- **Field of Interest:** Web Development (Front-End)
 
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
+---
 
-### Instructions for Using the Template:
+## 🧠 Part 1: Self-Assessment Reflection
 
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
+### 1. Skills Analysis
 
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
+- **Current Skills:**
+  - I use HTML to build a well structured webpage
+  - I use CSS for styling my webage so that it can have a poilsed look
 
-### Personal Information
+- **Skills to Improve or Develop:**
+  - I need to learn JavaScript as well as frameworks like React
+  - I need to understand Git/GitHub for version control
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+### 2. Interests and Values
 
-### Part 1: Self-Assessment Reflection
+- **Key Interests:**
+  - Designing websites that looks brilliant and work smooth on different devices
+  - Learning how real websites are built with the use of code
+  - Solving big or small problems with code
 
-1. **Skills Analysis**:
-    
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
-2. **Interests and Values**:
-    
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+- **Important Values in a Work Environment:**
+  - A team which everyone support one another ,for new knowledge and growth
+  - Opportunities to try new tools and technologies
+  - Understanable feedback and good chances to improve
 
-### Part 2: Career Exploration Insights
+---
 
-1. **Industries and Roles Explored**:
-    
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
-2. **Alignment with Personal Profile**:
-    
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+## 🔍 Part 2: Career Exploration Insights
 
-### Part 3: SMART Career Goals
+### 1. Industries and Roles Explored
 
-1. **Short-term Goals** (Next 1-2 years):
-    
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
-2. **Long-term Goals** (3-5 years and beyond):
-    
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+- Full-Stack Developer
+- Front-End Developer
+- UI/UX Designer
 
-### Part 4: Action Plan
+### 2. Alignment with Personal Profile
 
-1. **Steps to Achieve Short-term Goals**:
-    
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
-2. **Preparation for Long-term Goals**:
-    
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+- **How these roles align with my profile:**
+  - I love working with HTML, CSS, and JavaScript, which are main front-end skills
+  - I enjoy designing and building user-friendly interfaces that can display cool things
 
-### Part 5: Reflection on Challenges and Opportunities
+- **Gaps or areas for further exploration:**
+  - I have not worked with any frameworks like React or Vue
+  - I want really understand more about the process in which code is converted to websites
 
-1. **Anticipated Challenges**:
-    
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
-2. **Opportunities for Growth**:
-    
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+---
 
-### Submission
+## 🎯 Part 3: SMART Career Goals
 
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
+### 1. Short-term Goals (Next 1–2 Years)
+
+- **Goal 1:** Build and publish over 4 awesome web projects on GitHub  
+  - To practice my skills and create a wonderful portfolio so that looking for jobs is not a problem
+
+- **Goal 2:** Complete the full Front-End course online at code_space bootcamp
+  - To increase my JavaScript knowledge with real-world technology 
+
+### 2. Long-term Goals (3–5 Years and Beyond)
+
+- T want to become more creative in terms of programming 
+- My other long term goal is to become  full stack developer at a big and famous tech company   
+-I want to use my skills in a real-world problems which can help a companies or people, work with a smart team, and keep learning as i improve 
+
+- **How these align with my interests and skills:**  
+  - I'm a creative person , so i enjoy solving problems since sloving problems in programming needs creativity and by using code to build things that will help people and companies 
+
+---
+
+## 🛠 Part 4: Action Plan
+
+### 1. Steps to Achieve Short-term Goals
+
+- I practice coding everyday
+- Start building small projects as much as possible in a week 
+
+**Resources or support required:**
+- Using Code space learning materials to sharpen my understanding of coding 
+- Using scrimba to understand and learn along with things i dont really understand
+- Watching youtube videos 
+- Using gitHub to host my projects from Codespace
+
+### 2. Preparation for Long-term Goals
+
+- To build personal ebsite with all the projects I did at code space
+- Look for any internships, part-time jobs that relates to web development
+- Collaborate with the use of Git and GitHub
+
+**Additional skills, experiences, or qualifications needed:**
+- Experience with working on different projects which help companies in real time
+- Do more online courses 
+- Using developer tools in the browser  
+
+---
+
+## 🚧 Part 5: Reflection on Challenges and Opportunities
+
+### 1. Anticipated Challenges
+
+- I dont have real-world experience
+- Balancing working with self-learning
+- Feeling overwhelmed with all the new information about new technologies 
+
+**Strategies to overcome them:**
+- Make complex information into small, daily tasks
+- Focus on one new skill at a time
+- Be always motivated regaurdless of how hard new technologies might be 
+
+### 2. Opportunities for Growth
+
+- Look at the mistakes that i do which caurses errors 
+- Class projects and assignments as portfolio proof of growth
+- Teachers and classmates who can help and support me wwew i fall short 
+
+- **Networking:** Going to tech talks or student coding clubs
+- **Mentorship:** Asking for advice from teachers or someone who works as a web developer 
+- **Educational opportunities:** Increasing  certifications and complete more bootcamps
 
 
